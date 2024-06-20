@@ -10,7 +10,7 @@ body {
 
 .card {
     background-color: hsl(0, 0%, 100%);
-    width: 420px;
+    width: 220px;
     height: auto;
     display: flex;
     justify-content: center;
